@@ -1,0 +1,38 @@
+* Pizzaschnecken
+** Zutaten
+| Menge | Einheit | Zutat                                     |
+|-------+---------+-------------------------------------------|
+|   500 | g       | Mehl                                      |
+|   1/2 | Würfel  | Hefe                                      |
+|     4 | EL      | Zucker                                    |
+|    60 | ml      | Olivenöl                                  |
+|       |         | Salz                                      |
+|       |         | warmes Wasser                             |
+|-------+---------+-------------------------------------------|
+|     1 | Tube    | Tomatenmark                               |
+|     1 | TL      | Zucker                                    |
+|       |         | italienische Kräuter, Paprikapulver, Salz |
+|     1 |         | Zwiebel mittelgroß gewürfelt              |
+|     2 | EL      | Olivenöl                                  |
+|       |         | Wasser                                    |
+|-------+---------+-------------------------------------------|
+|   100 | g       | Cashews                                   |
+|       |         | Wasser                                    |
+|       |         | Salz                                      |
+|       |         | Hefeflocken                               |
+|       |         | Bockshornkleesamen gemahlen               |
+|       |         | Cayennepfeffer                            |
+|   200 | ml      | Rapsöl                                    |
+
+** Zubereitung
+- Hefe in 250ml Wasser und Zucker auflösen und warten bis es schäumt
+- mit dem Mehl, Salz, Olivenöl und evtl Kräutern vermischen, bis ein relativ weicher Hefeteig entsteht
+- Hefeteig gehen lassen
+- Tomatenmark mit den anderen Zutaten vermischen und mit Wasser aufrühren bis die Sauce die Konsistenz von Pizzasauce hat
+- Cashews in einem tiefen Gefäß mit Wasser bedecken und mixen, bis eine Creme entsteht
+- mit den anderen Zutaten würzen und nach und nach bei laufendem Mixer das Öl einrühren
+- Teig noch einmal durchkneten, in 4 Teile teilen
+- je ein Teil auf bemehlter Unterlage länglich ausrollen, mit Tomatensauce bestreichen und etwas von dem Cashewschmelz drüber geben
+- einrollen (nicht längs) und mit einem scharfen Messer schneiden und aufs Blech legen
+- keine Sorge, wenn die Schnecken nicht hübsch aussehen, im Ofen wird das besser ;)
+- bei 180°C Umluft ca 10 Minuten auf niedriger Etage backen, bis die Schnecken leicht braun werden
