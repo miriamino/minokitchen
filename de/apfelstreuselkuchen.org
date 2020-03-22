@@ -1,7 +1,7 @@
 * Apfelstreuselkuchen
 
-* Zutaten
-** Teig
+** Zutaten
+*** Teig
 | Menge | Einheit | Zutat             |
 |-------+---------+-------------------|
 |   500 | g       | Mehl              |
@@ -11,14 +11,14 @@
 |   250 | ml      | warmes Wasser     |
 |     1 | Prise   | Salz              |
 |-------+---------+-------------------|
-** Äpfel
+*** Äpfel
 | Menge | Einheit | Zutat             |
 |-------+---------+-------------------|
 |     6 |         | Äpfel             |
 |    50 | g       | Zucker            |
 |   1/2 | TL      | Zimt              |
 |-------+---------+-------------------|
-** Streusel
+*** Streusel
 | Menge | Einheit | Zutat             |
 |-------+---------+-------------------|
 |   350 | g       | Mehl              |
@@ -28,7 +28,7 @@
 |     1 | TL      | Zimt              |
 |     1 | TL      | Salz              | 
 
-* Zubereitung
+** Zubereitung
 
  - Hefe im Wasser mit 1 EL Zucker auflösen und ca 10 Minuten stehen lassen (es sollte anfangen zu schäumen)
  - restliche Zutaten vermischen und die Hefeflüssigkeit dazugeben, gut durchkneten, ca 15 Minuten an einem warmen Ort gehen lassen
