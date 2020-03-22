@@ -1,6 +1,7 @@
 * Apfelstreuselkuchen
 
 * Zutaten
+** Teig
 | Menge | Einheit | Zutat             |
 |-------+---------+-------------------|
 |   500 | g       | Mehl              |
@@ -10,9 +11,15 @@
 |   250 | ml      | warmes Wasser     |
 |     1 | Prise   | Salz              |
 |-------+---------+-------------------|
+** Äpfel
+| Menge | Einheit | Zutat             |
+|-------+---------+-------------------|
 |     6 |         | Äpfel             |
 |    50 | g       | Zucker            |
 |   1/2 | TL      | Zimt              |
+|-------+---------+-------------------|
+** Streusel
+| Menge | Einheit | Zutat             |
 |-------+---------+-------------------|
 |   350 | g       | Mehl              |
 |   200 | g       | Pflanzenmargarine |
