@@ -1,6 +1,6 @@
-## Pizza
+* Pizza
 
-### Teig:
+** Teig:
 
 430g Mehl
 300g Wasser
@@ -12,7 +12,7 @@ Alles mischen und verkneten. Wenn du richtig viel Zeit hast nur 1g Hefe nehmen, 
 
 Der Teig sollte so weich sein, dass er vorsichtig in Pizzaform gezogen werden kann (mit mehligen Fingern auf mehligem Untergrund).
 
-### Sauce:
+** Sauce:
 
 Dosentomaten abgetropft und passiert oder gehackte Tomaten jeweils ca 2-3 El pro Pizza
 1 El Olivenöl
@@ -20,7 +20,7 @@ Dosentomaten abgetropft und passiert oder gehackte Tomaten jeweils ca 2-3 El pro
 
 Zutaten vermischen und mit Salz abschmecken (Salz variiert weil manche Dosentomaten sind gesalzen und manche nicht)
 
-### Cashewcheese:
+** Cashewcheese:
 Cashewkerne
 Rapsöl
 Wasser
